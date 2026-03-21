@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+.Module.symvers
+.modules.order
+.tmp_versions/
+compile_commands.json
