@@ -383,4 +383,4 @@ module_exit(ilwmi_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Debug WMI helper for Intel/Uniwill lightbar reverse engineering");
-MODULE_AUTHOR("OpenAI");
+MODULE_AUTHOR("vap-tech contributors");
